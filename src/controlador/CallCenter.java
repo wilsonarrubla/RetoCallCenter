@@ -56,7 +56,7 @@ public class CallCenter {
        }
    /*Sobrecarga de método para liquidarnóminaEmp de un solo empleado
    Y utilizar el metodo Convertir que nos permite formatear la salida String para que no 
-   salga la notación científica para ello se hace necesario una clase que retorne*/
+   salga la notación científica para ello se hace necesario una clase que retorne aqui hacemos mod*/
    
      public Double liquidarNominaEmp(Empleado empleado){
        Double nominas ;
