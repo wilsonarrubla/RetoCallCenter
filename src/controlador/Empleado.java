@@ -13,7 +13,7 @@ public class Empleado {
     private int bonoNAv;
     private String cedula;
     
-    //Constructor
+    //Construc en English
 
    
 

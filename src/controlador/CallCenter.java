@@ -8,7 +8,7 @@ import java.util.LinkedList;
 
 public class CallCenter {
     //Feactures
-    //CallCenter relación agregació 1..* Empleados
+    //CallCenter relación agregació 1..* a muchos Empleados
     private ArrayList<Empleado> empleado = new  ArrayList<>();
     
     //Constructor por default
